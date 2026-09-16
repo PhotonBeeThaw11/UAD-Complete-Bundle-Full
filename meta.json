@@ -1,0 +1,23 @@
+{
+  "repo": "uad-complete-bundle-full",
+  "product": "UAD Complete Bundle Full",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "uad-plugins",
+  "topics": [
+    "uad-complete",
+    "universal-audio-plugins",
+    "console-insert-desk",
+    "uad-windows",
+    "plate-reverb-2026",
+    "how-to-install-uad",
+    "uad-desktop-package",
+    "channel-strip-suite",
+    "cue-scene-tools",
+    "uad-plugin-bundle"
+  ],
+  "site": "toolix.me"
+}
